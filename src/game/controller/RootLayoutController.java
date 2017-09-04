@@ -48,44 +48,6 @@ public class RootLayoutController {
 	@FXML
 	private GridPane rightTileGrid;
 
-	@FXML
-	private ImageView blk1;
-	@FXML
-	private ImageView blk2;
-	@FXML
-	private ImageView blk3;
-	@FXML
-	private ImageView blk4;
-	@FXML
-	private ImageView blk5;
-	@FXML
-	private ImageView blk6;
-	@FXML
-	private ImageView blk7;
-	@FXML
-	private ImageView blk8;
-	@FXML
-	private ImageView blk9;
-
-	@FXML
-	private ImageView wht1;
-	@FXML
-	private ImageView wht2;
-	@FXML
-	private ImageView wht3;
-	@FXML
-	private ImageView wht4;
-	@FXML
-	private ImageView wht5;
-	@FXML
-	private ImageView wht6;
-	@FXML
-	private ImageView wht7;
-	@FXML
-	private ImageView wht8;
-	@FXML
-	private ImageView wht9;
-
 	/**
 	 * Returns the location of the {@code ImageView} passed to the method.
 	 * 

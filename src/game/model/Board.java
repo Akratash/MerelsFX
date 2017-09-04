@@ -61,7 +61,7 @@ public class Board {
 	private Location l63 = new Location(6, 3);
 	private Location l66 = new Location(6, 6);
 
-	public Board() {
+	private Board() {
 		newGame = new SimpleBooleanProperty();
 		gameWon = new SimpleBooleanProperty();
 		merelSet = new SimpleBooleanProperty();
